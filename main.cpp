@@ -19,5 +19,6 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+    std::cout << "Ez egy kollaboracio" << std::endl;
     return 0;
 }
